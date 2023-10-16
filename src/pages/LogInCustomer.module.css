@@ -1,0 +1,382 @@
+.lowerpart {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background-color: #cdcfc0;
+  width: 1665px;
+  height: 304px;
+}
+.span {
+  color: #000;
+}
+.allAboutThe {
+  margin: 0;
+}
+.allAboutTheContainer {
+  position: absolute;
+  top: 53px;
+  left: 208px;
+  font-size: 64px;
+  line-height: 55px;
+  font-family: Shrikhand;
+  color: #fff;
+}
+.socialicons {
+  position: absolute;
+  top: 57px;
+  left: 1255px;
+  width: 133px;
+  height: 51px;
+  object-fit: cover;
+}
+.privacyPolicy,
+.termsConditions {
+  position: absolute;
+  top: 155px;
+  left: 1235px;
+}
+.termsConditions {
+  left: 1004px;
+}
+.lowerframe {
+  position: absolute;
+  bottom: -47px;
+  left: -78px;
+  width: 1665px;
+  height: 304px;
+  font-size: 20px;
+}
+.middleframeChild {
+  position: absolute;
+  top: -1px;
+  left: -1px;
+  background-color: transparent;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  width: 602px;
+  height: 345px;
+}
+.image3Icon {
+  position: absolute;
+  top: 21px;
+  left: 0;
+  width: 650px;
+  height: 368px;
+  object-fit: cover;
+}
+.about {
+  position: absolute;
+  top: 68px;
+  left: 686px;
+  font-size: 24px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  width: 494px;
+  height: 231px;
+}
+.indicator,
+.labelabout {
+  position: absolute;
+  top: 51px;
+  left: 702px;
+  font-weight: 900;
+}
+.indicator {
+  left: 673px;
+  display: inline-block;
+  width: 57px;
+}
+.middleframe {
+  position: absolute;
+  top: 920px;
+  left: 130px;
+  width: 1180px;
+  height: 389px;
+  font-size: 48px;
+}
+.upperpart {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #cdcfc0;
+  filter: blur(85px);
+  width: 1651px;
+  height: 914px;
+}
+.image1Icon {
+  position: absolute;
+  top: 159px;
+  left: 105px;
+  width: 1554px;
+  height: 800px;
+  object-fit: cover;
+}
+.btnabout,
+.btnlogin,
+.btnregister {
+  position: absolute;
+  top: 203px;
+  left: 1345px;
+}
+.btnabout,
+.btnregister {
+  left: 1227px;
+}
+.btnabout {
+  left: 1135px;
+  cursor: pointer;
+}
+.everyCanvassIs {
+  position: absolute;
+  top: 135px;
+  left: 0;
+}
+.a0f1baed2deef692f8b1e0ff257aa0Icon {
+  position: absolute;
+  top: 19px;
+  left: 103px;
+  width: 80px;
+  height: 99px;
+  object-fit: cover;
+}
+.artistico {
+  position: absolute;
+  top: 60px;
+  left: 202px;
+  font-size: 40px;
+  font-family: Shrikhand;
+}
+.image2Icon {
+  position: absolute;
+  top: 0;
+  left: 79px;
+  border-radius: 9px;
+  width: 121px;
+  height: 135px;
+  object-fit: cover;
+}
+.upperlogo {
+  position: absolute;
+  top: 322px;
+  left: 235px;
+  width: 563px;
+  height: 160px;
+  font-family: Syncopate;
+}
+.paintings {
+  position: absolute;
+  top: 200px;
+  left: 95px;
+  font-weight: 300;
+}
+.image6paintingIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 251px;
+  height: 209px;
+  object-fit: cover;
+}
+.painting {
+  position: absolute;
+  top: 611px;
+  left: 1064px;
+  width: 251px;
+  height: 239px;
+  font-size: 32px;
+}
+.digitalArt {
+  position: absolute;
+  top: 202px;
+  left: 63px;
+  font-weight: 300;
+}
+.image5digitalartIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 275px;
+  height: 196px;
+  object-fit: cover;
+}
+.digitalart {
+  position: absolute;
+  top: 609px;
+  left: 688px;
+  width: 275px;
+  height: 241px;
+  font-size: 32px;
+}
+.sculpture1 {
+  position: absolute;
+  top: 218px;
+  left: 18px;
+  font-weight: 300;
+}
+.image4sculptureIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 178px;
+  height: 227px;
+  object-fit: cover;
+}
+.sculpture {
+  position: absolute;
+  top: 593px;
+  left: 335px;
+  width: 178px;
+  height: 257px;
+  font-size: 32px;
+}
+.artarea {
+  position: absolute;
+  top: 590px;
+  left: 176px;
+  background-color: transparent;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  width: 1299px;
+  height: 268px;
+}
+.btnartistico {
+  position: absolute;
+  top: 191px;
+  left: 235px;
+  font-size: 40px;
+  font-family: Shrikhand;
+  cursor: pointer;
+}
+.upperframe {
+  position: absolute;
+  top: -159px;
+  left: -105px;
+  width: 1651px;
+  height: 924px;
+}
+.loginregisterarea {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  background-color: #f1ebe5;
+  width: 580px;
+  height: 350px;
+}
+.logIn {
+  position: relative;
+}
+.submitbtn {
+  position: absolute;
+  top: 278px;
+  left: 180px;
+  border-radius: 22px;
+  background-color: #d9d9d9;
+  width: 220px;
+  height: 50px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 20px 70px;
+  box-sizing: border-box;
+}
+.activebtn {
+  top: 0;
+  left: 0;
+  background-color: #f1ebe5;
+  height: 59.73px;
+  padding: 15px 110px;
+}
+.activebtn,
+.activebtncustomer,
+.nonactivebtn,
+.nonactivebtnseller {
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.nonactivebtn {
+  top: 0;
+  left: 290px;
+  background-color: #cfcdc6;
+  width: 290px;
+  height: 59.73px;
+  padding: 15px 94px;
+  cursor: pointer;
+}
+.activebtncustomer,
+.nonactivebtnseller {
+  top: 78px;
+  border-radius: 11px;
+}
+.nonactivebtnseller {
+  left: 280px;
+  background-color: #d9d9d9;
+  width: 220px;
+  padding: 7px 76px;
+  cursor: pointer;
+}
+.activebtncustomer {
+  left: 100px;
+  background-color: #9b988f;
+  width: 194px;
+  padding: 7px 30px;
+  color: #fff;
+}
+.passwordlb {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.txtbpasswordIcon {
+  position: absolute;
+  top: 23px;
+  left: 171px;
+  width: 332px;
+  height: 27px;
+  object-fit: cover;
+}
+.password {
+  position: absolute;
+  top: 216px;
+  left: 51px;
+  width: 503px;
+  height: 50px;
+}
+.txtbemailaddIcon {
+  position: absolute;
+  top: 23px;
+  left: 170px;
+  width: 332px;
+  height: 27px;
+  object-fit: cover;
+}
+.emailAddress,
+.registration {
+  position: absolute;
+  top: 154px;
+  left: 52px;
+  width: 502px;
+  height: 50px;
+}
+.registration {
+  top: 90px;
+  left: 730px;
+  width: 580px;
+  height: 352px;
+}
+.logincustomer {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 1700px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 24px;
+  color: #000;
+  font-family: Inter;
+}
